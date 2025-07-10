@@ -87,39 +87,11 @@ Each exploit was fully documented with mitigation strategies.
 
 ---
 
-## 📁 Repository Structure
-
-cybersecurity-projects/
-│
-├── README.md
-├── Automating-Nmap/
-│ └── scripts/, presentation/, notes.md
-│
-├── Secure-Web-App/
-│ └── source-code/, deployment-guide.md, screenshots/
-│
-├── Splunk-Monitoring/
-│ └── splunk-configs/, dashboards/, documentation.md
-│
-├── Mobile-Forensics/
-│ └── evidence-files/, analysis-report.md, case-summary/
-│
-├── Penetration-Test/
-│ └── findings.md, screenshots/, exploit-scripts/
-│
-├── SOC-Vandalay/
-│ └── splunk-alerts/, ddos-report.md, brute-force-analysis.md
-│
-└── Web-Vulnerability-Testing/
-└── burp-suite-logs/, beef-exploits/, mitigation-report.md
-
----
-
 ## 📬 Connect with Me
 
 Want to discuss these projects or collaborate?
 
 - 🔗 [LinkedIn – Matthew Drumonde](https://www.linkedin.com/in/matthew-drumonde/)
-- 💻 GitHub – [@your-username](https://github.com/your-username)
+- 💻 GitHub – @MDrumonde99
 
 ---
