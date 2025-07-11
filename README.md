@@ -1,97 +1,59 @@
-# 🛡️ Cybersecurity Projects
+# 🛡️ Cybersecurity Projects Portfolio
 
-Welcome to my cybersecurity portfolio. This repository showcases a diverse collection of cybersecurity projects that demonstrate practical experience and theoretical knowledge in areas such as:
+Welcome to my cybersecurity projects repository. This collection demonstrates my hands-on experience with a variety of cybersecurity domains including penetration testing, digital forensics, web application security, SOC analysis, and cloud-based monitoring.
 
-- ✅ Web Application Security  
-- ✅ Digital Forensics  
-- ✅ Security Monitoring  
-- ✅ Penetration Testing  
-
-Each project applies real-world cybersecurity techniques, tools, and methodologies.
+Each project includes a comprehensive PDF report that outlines objectives, tools, methodologies, outcomes, and mitigation strategies.
 
 ---
 
-## 🔄 Automating Nmap
+## 📄 Project Index
 
-Automated the use of **Nmap** to streamline network reconnaissance and vulnerability scanning.
-
-- Developed custom scripts to automate scanning tasks.
-- Demonstrated findings at the *bootCon* cyber class conference.
-- Presented the technical background, demonstration outcomes, and mitigation strategies.
+### 🔍 [Automating NMAP Project](Automating%20NMAP%20Project.pdf)
+Automated Nmap scanning using scripting to efficiently map networks, identify vulnerabilities, and streamline reconnaissance. Presented at a cybersecurity conference showcasing technical background and defense strategies.
 
 ---
 
-## 🌐 Build, Secure, and Protect a Web Application
-
-Built a secure, cloud-hosted web application to serve as a personal cybersecurity blog.
-
-- Deployed the application in a cloud environment.
-- Implemented security measures to prevent common attacks.
-- Documented the process with screenshots and review question responses.
+### 🌐 [Build, Secure, and Protect a Web Application](Build,%20Secure,%20and%20Protect%20a%20Web%20Application.pdf)
+Designed and deployed a secure cloud-hosted web application. Implemented measures to defend against common vulnerabilities (e.g., XSS, brute force). Includes architecture diagrams, deployment process, and secure coding practices.
 
 ---
 
-## 📊 Security Monitoring with Splunk
-
-Designed and configured a custom security monitoring environment using **Splunk**.
-
-- Collected and visualized security logs.
-- Built dashboards and alerts to detect and respond to attacks.
-- Simulated real-world SOC practices.
+### 📊 [Building a Security Monitoring Environment](Building%20a%20Security%20Monitoring%20Environment.pdf)
+Developed a custom security monitoring solution using Splunk. Created dashboards, alerts, and log ingestion pipelines to simulate detection and response in a fictional organization.
 
 ---
 
-## 📱 Mobile Forensics (Digital Forensics)
-
-Performed forensic analysis on an iPhone image using **Autopsy** on **Kali Linux**.
-
-- Recovered and analyzed SMS messages and media attachments.
-- Used EXIF tools to extract geographic metadata.
-- Created a full case report detailing digital evidence.
+### 📱 [Mobile Forensics Uncovered](Mobile%20Forensics%20Uncovered.pdf)
+Performed forensic investigation of an iPhone image using Autopsy on Kali Linux. Analyzed artifacts like SMS messages, geolocation data, and media files. Delivered a final report supporting a fictional case scenario.
 
 ---
 
-## 🧨 Penetration Testing Report
-
-Conducted a simulated penetration test on an organization’s:
-
-- Web applications  
-- Linux systems  
-- Windows servers  
-
-- Identified exploitable vulnerabilities and documented the process.
-- Provided screenshots and logs as evidence.
-- Delivered remediation recommendations in a detailed report.
+### 🧨 [Penetration Test Report](Penetration%20Test%20Report.pdf)
+Conducted a full-scope penetration test on web applications and internal infrastructure (Linux/Windows). Identified, exploited, and documented vulnerabilities with screenshots and remediation strategies.
 
 ---
 
-## 🛠️ SOC Operations for Vandalay Industries
-
-Acted as a SOC Analyst for a fictional company using **Splunk**.
-
-- **DDoS Analysis:** Assessed network impact and calculated upload/download ratios.
-- **Vulnerability Management:** Interpreted Nessus scan results and configured alerts.
-- **Brute Force Detection:** Created baselines and detected abnormal login behavior.
+### 🧠 [Splunk-Based Security Operations for Vandalay Industries](Splunk-Based%20Security%20Operations%20for%20Vandalay%20Industries.pdf)
+Acted as SOC analyst using Splunk to detect and respond to threats. Projects include:
+- DDoS impact analysis
+- Vulnerability management with Nessus
+- Brute force attack detection
 
 ---
 
-## 🧪 Web Application Vulnerability Testing
+### 🧪 [Testing Web Applications for Vulnerabilities](Testing%20Web%20Applications%20for%20Vulnerabilities.pdf)
+Used Burp Suite and BeEF to simulate:
+- Command injection
+- Broken authentication / brute force
+- Cross-site scripting (XSS)
 
-Tested web applications for common vulnerabilities using **Burp Suite** and **BeEF**.
-
-- **Command Injection:** Gained unauthorized access to sensitive system files.
-- **Brute Force:** Used Burp Intruder to find weak admin credentials.
-- **XSS + BeEF:** Injected persistent payloads to launch social engineering attacks and gather client-side data.
-
-Each exploit was fully documented with mitigation strategies.
+Documented exploitation techniques and countermeasures for each.
 
 ---
 
-## 📬 Connect with Me
+## 🔗 Connect With Me
 
-Want to discuss these projects or collaborate?
-
-- 🔗 [LinkedIn – Matthew Drumonde](https://www.linkedin.com/in/matthew-drumonde/)
-- 💻 GitHub – @MDrumonde99
+- 💼 [LinkedIn – Matthew Drumonde](https://www.linkedin.com/in/matthew-drumonde/)
+- 📁 [GitHub Profile – MDrumonde99](https://github.com/MDrumonde99)
 
 ---
